@@ -12,10 +12,6 @@ Hello! I'm Sanjana Kaicker, a litigation consultant based in Washington, DC. I s
 **Senior Associate**
 
 
-### [Previous Company or Organization] ([Start Year] - [End Year])
-**Senior Associate**
-
-
 ### Cornell University
 **Bachelor of Arts in Economics and French** (2023)
 
