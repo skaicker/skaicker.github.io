@@ -10,7 +10,7 @@ I'm an incoming Juris Doctor student with a planned focus in international trade
 
 ## Professional Experience
 
-### Ankura Consulting Group (2023 - Present)
+### Ankura Consulting Group (2023–Present)
 **Senior Associate**
 
 ## Education
