@@ -1,6 +1,4 @@
-# Sanjana Kaicker
-
-## About Me
+# About Me
 
 Hello! I'm Sanjana Kaicker, and I'm currently a litigation consultant based in Washington, DC. I specialize in providing support for commercial healthcare disputes. I'm an avid reader, and I love exploring new ideas and interests.
 
@@ -16,7 +14,7 @@ I'm an incoming Juris Doctor student with a planned focus in international trade
 ## Education
 
 ### Cornell University
-**Bachelor of Arts in Economics and French** *(2023)*
+**Bachelor of Arts in Economics and French (2023)**
 
 ## Contact Me
 
