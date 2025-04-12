@@ -10,10 +10,10 @@
 }
 
 .sidebar-container {
-  width: 250px;
+  width: 180px; /* Skinnier sidebar */
   padding: 2rem 1rem;
   color: white;
-  background-color: #202020;
+  background-color: #8FBC8F; /* Light green color */
   position: fixed;
   top: 0;
   left: 0;
@@ -24,7 +24,7 @@
 .content-container {
   flex: 1;
   padding: 2rem;
-  margin-left: 250px;
+  margin-left: 180px; /* Match sidebar width */
 }
 
 /* Sidebar styling */
@@ -35,6 +35,7 @@
 .sidebar-about h1 {
   margin-top: 0;
   font-size: 1.5rem;
+  font-family: 'Poppins', sans-serif; /* Modern, fun font similar to Claude logo */
 }
 
 .sidebar-about h1 a {
@@ -44,13 +45,15 @@
 
 .sidebar-nav {
   margin-top: 2rem;
+  font-family: 'Poppins', sans-serif; /* Apply font to navigation */
 }
 
 .sidebar-nav-item {
   display: block;
   padding: 0.5rem 0;
-  color: rgba(255,255,255,0.8);
+  color: rgba(255,255,255,0.9);
   text-decoration: none;
+  font-weight: 500;
 }
 
 .sidebar-nav-item:hover {
@@ -61,7 +64,8 @@
 .sidebar-footer {
   margin-top: 2rem;
   font-size: 0.75rem;
-  color: rgba(255,255,255,0.6);
+  color: rgba(255,255,255,0.7);
+  font-family: 'Poppins', sans-serif;
 }
 
 /* Mobile responsiveness */
