@@ -125,42 +125,23 @@ a {
 .contact-icons a {
   transition: transform 0.3s ease;
   text-decoration: none;
+  font-size: 30px;
 }
 
 .contact-icons a:hover {
   transform: scale(1.2);
 }
 
-/* Base icon styling - removing the invert filter */
-.contact-icons img {
-  width: 30px;
-  height: 30px;
+.icon-email {
+  color: #EA4335;
 }
 
-/* Individual icon colors */
-.icon-email img {
-  filter: invert(50%) sepia(71%) saturate(2848%) hue-rotate(337deg) brightness(99%) contrast(92%);
+.icon-linkedin {
+  color: #0A66C2;
 }
 
-.icon-linkedin img {
-  filter: invert(29%) sepia(98%) saturate(1366%) hue-rotate(193deg) brightness(96%) contrast(96%);
-}
-
-.icon-github img {
-  filter: invert(21%) sepia(12%) saturate(12%) hue-rotate(321deg) brightness(97%) contrast(91%);
-}
-
-/* Hover effects */
-.icon-email:hover img {
-  filter: invert(37%) sepia(74%) saturate(2848%) hue-rotate(337deg) brightness(99%) contrast(92%);
-}
-
-.icon-linkedin:hover img {
-  filter: invert(18%) sepia(98%) saturate(1866%) hue-rotate(193deg) brightness(96%) contrast(96%);
-}
-
-.icon-github:hover img {
-  filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(40%) contrast(100%);
+.icon-github {
+  color: #333333;
 }
 
 /* Make sure contact icons work well on mobile */
