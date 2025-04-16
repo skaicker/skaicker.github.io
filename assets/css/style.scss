@@ -117,7 +117,7 @@ a {
 /* Contact icons styling */
 .contact-icons {
   display: flex;
-  gap: 30px;
+  gap: 10px;
   margin: 20px 0;
   align-items: center;
 }
@@ -125,7 +125,7 @@ a {
 .contact-icons a {
   transition: transform 0.3s ease;
   text-decoration: none;
-  font-size: 15px; /* Decreased the size to look better at the bottom */
+  font-size: 22px; /* Decreased the size to look better at the bottom */
   display: inline-block;
   padding: 3px; /* Added padding to increase clickable area */
 }
@@ -153,6 +153,6 @@ a {
   }
   
   .contact-icons a {
-    font-size: 15px; /* Slightly smaller on mobile but still large */
+    font-size: 17px; /* Slightly smaller on mobile but still large */
   }
 }
