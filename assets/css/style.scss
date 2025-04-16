@@ -125,9 +125,9 @@ a {
 .contact-icons a {
   transition: transform 0.3s ease;
   text-decoration: none;
-  font-size: 20px; /* Decreased the size to look better at the bottom */
+  font-size: 15px; /* Decreased the size to look better at the bottom */
   display: inline-block;
-  padding: 5px; /* Added padding to increase clickable area */
+  padding: 3px; /* Added padding to increase clickable area */
 }
 
 .contact-icons a:hover {
@@ -153,6 +153,6 @@ a {
   }
   
   .contact-icons a {
-    font-size: 40px; /* Slightly smaller on mobile but still large */
+    font-size: 15px; /* Slightly smaller on mobile but still large */
   }
 }
