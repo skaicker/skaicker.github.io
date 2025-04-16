@@ -18,8 +18,6 @@ I'm an incoming Juris Doctor student with a planned focus in international trade
 
 ## Contact Me
 
-## Contact Me
-
 <div class="contact-icons">
   <a href="mailto:sanjana.kaicker@gmail.com" title="Email" class="icon-email">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email">
