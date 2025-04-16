@@ -28,7 +28,7 @@ Soon to be posted!
 
 Contact me:
 <div class="contact-icons">
-  <a href="mailto:sanjana.kaicker@gmail.com" title="Email" class="icon-email">
+  <a href="mailto:kaickersanjana@gmail.com" title="Email" class="icon-email">
     <i class="fas fa-envelope"></i>
   </a>
   <a href="https://linkedin.com/in/sanjanakaicker" title="LinkedIn" class="icon-linkedin">
