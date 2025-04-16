@@ -18,11 +18,17 @@ I'm an incoming Juris Doctor student with a planned focus in international trade
 
 ## Contact Me
 
-- Email: sanjana.kaicker@gmail.com
-- LinkedIn: linkedin.com/in/sanjanakaicker
-- GitHub: github.com/skaicker
-
-Feel free to reach out if you'd like to collaborate on a project or just chat!
+<div class="contact-icons">
+  <a href="mailto:sanjana.kaicker@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/sanjanakaicker" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/skaicker" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub">
+  </a>
+</div>
 
 ---
 
