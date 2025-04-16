@@ -117,7 +117,7 @@ a {
 /* Contact icons styling */
 .contact-icons {
   display: flex;
-  gap: 20px;
+  gap: 30px;
   margin: 20px 0;
   align-items: center;
 }
@@ -125,7 +125,9 @@ a {
 .contact-icons a {
   transition: transform 0.3s ease;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 45px; /* Increased from 30px to 45px */
+  display: inline-block;
+  padding: 8px; /* Added padding to increase clickable area */
 }
 
 .contact-icons a:hover {
@@ -148,5 +150,9 @@ a {
 @media (max-width: 768px) {
   .contact-icons {
     justify-content: center;
+  }
+  
+  .contact-icons a {
+    font-size: 40px; /* Slightly smaller on mobile but still large */
   }
 }
