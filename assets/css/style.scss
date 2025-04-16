@@ -125,7 +125,7 @@ a {
 .contact-icons a {
   transition: transform 0.3s ease;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 20px; /* Decreased the size to look better at the bottom */
   display: inline-block;
   padding: 5px; /* Added padding to increase clickable area */
 }
