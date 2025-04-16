@@ -16,17 +16,19 @@ I'm an incoming Juris Doctor student with a planned focus in international trade
 ### Cornell University
 **Bachelor of Arts in Economics and French (2023)**
 
+---
+
 ## Contact Me
 
 <div class="contact-icons">
   <a href="mailto:sanjana.kaicker@gmail.com" title="Email" class="icon-email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email">
+    <i class="fas fa-envelope"></i>
   </a>
   <a href="https://linkedin.com/in/sanjanakaicker" title="LinkedIn" class="icon-linkedin">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn">
+    <i class="fab fa-linkedin"></i>
   </a>
   <a href="https://github.com/skaicker" title="GitHub" class="icon-github">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub">
+    <i class="fab fa-github"></i>
   </a>
 </div>
 
