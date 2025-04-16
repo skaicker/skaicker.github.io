@@ -1,8 +1,6 @@
 ---
 ---
-
 @import "{{ site.theme }}";
-
 /* Font settings - Merriweather is similar to Claude's serif font */
 body {
   font-family: 'Merriweather', serif;
@@ -11,7 +9,6 @@ body {
   margin: 0;
   padding: 0;
 }
-
 /* Top navigation bar */
 .top-nav {
   background-color: #008080; /* Teal color */
@@ -22,7 +19,6 @@ body {
   z-index: 1000;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
-
 .nav-container {
   display: flex;
   justify-content: space-between;
@@ -32,7 +28,6 @@ body {
   padding: 0 20px;
   height: 60px;
 }
-
 .site-title a {
   color: white;
   text-decoration: none;
@@ -40,23 +35,19 @@ body {
   font-weight: 700; /* Bold font weight */
   font-family: 'Merriweather', serif;
 }
-
 .nav-links {
   display: flex;
   gap: 25px;
 }
-
 .nav-links a {
   color: white;
   text-decoration: none;
   font-size: 1rem;
   transition: opacity 0.2s;
 }
-
 .nav-links a:hover {
   opacity: 0.8;
 }
-
 .mobile-menu-toggle {
   display: none;
   background: none;
@@ -65,7 +56,6 @@ body {
   font-size: 1.5rem;
   cursor: pointer;
 }
-
 .mobile-nav {
   display: none;
   background-color: #008080; /* Teal color */
@@ -79,11 +69,9 @@ body {
   transform: translateY(-100%);
   transition: transform 0.3s ease;
 }
-
 .mobile-nav.active {
   transform: translateY(0);
 }
-
 .mobile-nav a {
   display: block;
   color: white;
@@ -91,18 +79,15 @@ body {
   padding: 12px 20px;
   text-align: center;
 }
-
 .mobile-nav a:hover {
   background-color: rgba(255,255,255,0.1);
 }
-
 /* Content area */
 .content-container {
   max-width: 1000px;
   margin: 80px auto 40px;
   padding: 0 20px;
 }
-
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
@@ -111,11 +96,9 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
 }
-
 a {
   color: #008080; /* Teal color for links */
 }
-
 /* Mobile responsiveness */
 @media (max-width: 768px) {
   .nav-links {
@@ -128,5 +111,39 @@ a {
   
   .mobile-nav {
     display: block;
+  }
+}
+
+/* Contact icons styling */
+.contact-icons {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+  align-items: center;
+}
+
+.contact-icons a {
+  transition: transform 0.3s ease;
+  text-decoration: none;
+}
+
+.contact-icons a:hover {
+  transform: scale(1.2);
+}
+
+.contact-icons img {
+  filter: invert(0.5);
+  width: 30px;
+  height: 30px;
+}
+
+.contact-icons a:hover img {
+  filter: invert(0.3);
+}
+
+/* Make sure contact icons work well on mobile */
+@media (max-width: 768px) {
+  .contact-icons {
+    justify-content: center;
   }
 }
