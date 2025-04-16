@@ -18,8 +18,15 @@ I'm an incoming Juris Doctor student with a planned focus in international trade
 
 ---
 
-## Contact Me
+## Resume
 
+Soon to be posted!
+
+---
+
+© 2025 Sanjana Kaicker. All rights reserved.
+
+Contact me:
 <div class="contact-icons">
   <a href="mailto:sanjana.kaicker@gmail.com" title="Email" class="icon-email">
     <i class="fas fa-envelope"></i>
@@ -31,13 +38,3 @@ I'm an incoming Juris Doctor student with a planned focus in international trade
     <i class="fab fa-github"></i>
   </a>
 </div>
-
----
-
-## Resume
-
-Soon to be posted!
-
----
-
-© 2025 Sanjana Kaicker. All rights reserved.
