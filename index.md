@@ -13,8 +13,8 @@ I'm an incoming Juris Doctor student with a planned focus in international trade
 
 ## Education
 
-### Cornell University
-**Bachelor of Arts in Economics and French (2023)**
+### Cornell University (2021i–2023)
+**Bachelor of Arts in Economics and French**, *summa cum laude*
 
 ---
 
