@@ -1,8 +1,8 @@
 # About Me
 
-Hello! I'm Sanjana Kaicker, and I'm currently a litigation consultant based in Washington, DC. I specialize in providing support for commercial healthcare disputes. I'm an avid reader, and I love exploring new ideas and interests.
+Hello! I'm Sanjana Kaicker, and I'm currently a litigation consultant based in Washington, DC. I currently specialize in providing support for commercial healthcare disputes. I'm an avid reader, and I love exploring new ideas and interests.
 
-I'm an incoming Juris Doctor student with a planned focus in international trade law, and I hope to understand and analyze the regulatory impacts of economic sanctions and investment treaties. 
+I'm an incoming Juris Doctor student with a planned focus in international trade law, and I aim to thoroughly understand and analyze the regulatory impacts of economic sanctions and investment treaties (especially in light of recent trade-policy changes).
 
 ![Profile Photo](Photo.PNG)
 
