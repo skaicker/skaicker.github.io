@@ -136,6 +136,16 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--text-color);
 }
 
+/* Ensure all text elements use the proper color variables */
+p, span, div, li, strong, em {
+  color: var(--text-color);
+}
+
+/* Make sure any bold text also follows dark mode */
+strong, b {
+  color: var(--text-color);
+}
+
 a {
   color: var(--link-color);
   transition: color 0.3s ease;
