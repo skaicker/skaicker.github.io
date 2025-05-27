@@ -1,24 +1,51 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+/* CSS Custom Properties for theming */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --nav-bg: #008080;
+  --nav-text: #ffffff;
+  --link-color: #008080;
+  --shadow-color: rgba(0,0,0,0.1);
+}
+
+/* Dark mode variables */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #1a1a1a;
+    --text-color: #e1e1e1;
+    --nav-bg: #006666;
+    --nav-text: #ffffff;
+    --link-color: #4dd0e1;
+    --shadow-color: rgba(0,0,0,0.3);
+  }
+}
+
 /* Font settings - Merriweather is similar to Claude's serif font */
 body {
   font-family: 'Merriweather', serif;
   line-height: 1.6;
-  color: #333;
+  color: var(--text-color);
+  background-color: var(--bg-color);
   margin: 0;
   padding: 0;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
+
 /* Top navigation bar */
 .top-nav {
-  background-color: #008080; /* Teal color */
+  background-color: var(--nav-bg);
   width: 100%;
   position: fixed;
   top: 0;
   left: 0;
   z-index: 1000;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 4px var(--shadow-color);
 }
+
 .nav-container {
   display: flex;
   justify-content: space-between;
@@ -28,66 +55,77 @@ body {
   padding: 0 20px;
   height: 60px;
 }
+
 .site-title a {
-  color: white;
+  color: var(--nav-text);
   text-decoration: none;
   font-size: 1.5rem;
   font-weight: 700; /* Bold font weight */
   font-family: 'Merriweather', serif;
 }
+
 .nav-links {
   display: flex;
   gap: 25px;
 }
+
 .nav-links a {
-  color: white;
+  color: var(--nav-text);
   text-decoration: none;
   font-size: 1rem;
   transition: opacity 0.2s;
 }
+
 .nav-links a:hover {
   opacity: 0.8;
 }
+
 .mobile-menu-toggle {
   display: none;
   background: none;
   border: none;
-  color: white;
+  color: var(--nav-text);
   font-size: 1.5rem;
   cursor: pointer;
 }
+
 .mobile-nav {
   display: none;
-  background-color: #008080; /* Teal color */
+  background-color: var(--nav-bg);
   position: fixed;
   top: 60px;
   left: 0;
   right: 0;
   z-index: 999;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 4px var(--shadow-color);
   padding: 10px 0;
   transform: translateY(-100%);
   transition: transform 0.3s ease;
 }
+
 .mobile-nav.active {
   transform: translateY(0);
 }
+
 .mobile-nav a {
   display: block;
-  color: white;
+  color: var(--nav-text);
   text-decoration: none;
   padding: 12px 20px;
   text-align: center;
 }
+
 .mobile-nav a:hover {
   background-color: rgba(255,255,255,0.1);
 }
+
 /* Content area */
 .content-container {
   max-width: 1000px;
   margin: 80px auto 40px;
   padding: 0 20px;
 }
+
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
@@ -95,10 +133,14 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
+  color: var(--text-color);
 }
+
 a {
-  color: #008080; /* Teal color for links */
+  color: var(--link-color);
+  transition: color 0.3s ease;
 }
+
 /* Mobile responsiveness */
 @media (max-width: 768px) {
   .nav-links {
@@ -143,7 +185,18 @@ a {
 }
 
 .icon-github {
-  color: #333333;
+  color: var(--text-color);
+}
+
+/* Dark mode specific adjustments for icons */
+@media (prefers-color-scheme: dark) {
+  .icon-email {
+    color: #ff6b6b;
+  }
+  
+  .icon-linkedin {
+    color: #4fc3f7;
+  }
 }
 
 /* Make sure contact icons work well on mobile */
