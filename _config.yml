@@ -3,11 +3,14 @@ description: Consultant & Future Attorney
 baseurl: ""
 url: "https://skaicker.github.io"
 
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
 # Build settings
 markdown: kramdown
 # You can keep your current theme here
 theme: jekyll-theme-minimal
-
 # Specify the default layout for pages
 defaults:
   -
