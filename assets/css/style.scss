@@ -164,8 +164,27 @@ a {
   .mobile-nav {
     display: block;
   }
+  
+  /* Fix mobile dark mode text colors */
+  body {
+    color: var(--text-color);
+    background-color: var(--bg-color);
+  }
+  
+  /* Ensure mobile text elements follow dark mode */
+  p, span, div, li, strong, em, h1, h2, h3, h4, h5, h6 {
+    color: var(--text-color) !important;
+  }
+  
+  /* Mobile contact icons */
+  .contact-icons {
+    justify-content: center;
+  }
+  
+  .contact-icons a {
+    font-size: 17px;
+  }
 }
-
 /* Contact icons styling */
 .contact-icons {
   display: flex;
