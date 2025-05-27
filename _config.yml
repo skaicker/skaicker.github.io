@@ -3,6 +3,8 @@ description: Consultant & Future Attorney
 baseurl: ""
 url: "https://skaicker.github.io"
 
+logo: "/assets/favicon.ico"
+
 # Plugins
 plugins:
   - jekyll-seo-tag
