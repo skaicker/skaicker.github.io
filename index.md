@@ -1,4 +1,4 @@
-# *Litigation Consultant & Future Attorney*
+# <u> Litigation Consultant & Future Attorney </u>
 
 Hello! I'm Sanjana Kaicker, and I'm currently a litigation consultant based in Washington, DC. I currently specialize in providing support for commercial healthcare disputes. I'm an avid reader, and I love exploring new ideas and interests.
 
