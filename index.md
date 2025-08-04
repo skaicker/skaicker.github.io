@@ -6,22 +6,6 @@ I'm an incoming Juris Doctor student with a planned focus in international trade
 
 ![Profile Photo](Photo.PNG)
 
-## Professional Experience
-
-### Ankura Consulting Group (2023–Present)
-**Senior Associate**
-
-## Education
-
-### Cornell University (2019–2023)
-**Bachelor of Arts in Economics and French**, *summa cum laude*
-
----
-
-## Resume
-
-Soon to be posted!
-
 ---
 
 © 2025 Sanjana Kaicker. All rights reserved.
