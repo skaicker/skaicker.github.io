@@ -24,7 +24,7 @@
 *J.D. Candidate, Class of 2028*
 
 **Cornell University**  
-*B.A. in Economics & French | Summa Cum Laude in French | GPA: 3.54*  
+*B.A. in Economics & French | Summa Cum Laude in French*
 - Selected coursework: Competition Law & Policy, Applied Econometrics, Object-Oriented Programming  
 - Honors Thesis: Identity and Protest Culture in France  
 - Study Abroad: Université Paris Cité & Panthéon-Sorbonne, Licence Économie
