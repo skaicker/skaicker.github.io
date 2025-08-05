@@ -1,8 +1,10 @@
-# <u> Litigation Consultant & Future Attorney </u>
+# Future Attorney. Former Economic Consultant.
 
-Hello! I'm Sanjana Kaicker, and I'm currently a litigation consultant based in Washington, DC. I currently specialize in providing support for commercial healthcare disputes. I'm an avid reader, and I love exploring new ideas and interests.
+I'm Sanjana Kaicker, an incoming 1L at Boston University School of Law with a deep interest in international economic law, particularly trade policy, treaty formation, and the legal mechanics behind economic sanctions and tariffs.
 
-I'm an incoming Juris Doctor student with a planned focus in international trade law, and I aim to thoroughly understand and analyze the regulatory impacts of economic sanctions and investment treaties (especially in light of recent trade-policy changes).
+Before law school, I worked as a Senior Associate at Ankura Consulting Group, where I conducted data-driven analysis in high-stakes healthcare disputes, collaborating with top law firms and leading experts on payor–provider litigation and pharmacy pricing investigations.
+
+I'm passionate about bridging law, policy, and data—a thread that's run through my experiences in consulting, economics research, product management, and international affairs.
 
 ![Profile Photo](Photo.PNG)
 
