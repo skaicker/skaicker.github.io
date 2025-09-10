@@ -1,6 +1,6 @@
 # Future Attorney. Former Economic Consultant.
 
-I'm Sanjana Kaicker, an incoming 1L at Boston University School of Law with a deep interest in international economic law, particularly trade policy, treaty formation, and the legal mechanics behind economic sanctions and tariffs.
+I'm Sanjana Kaicker, a 1L at Boston University School of Law with a deep interest in international economic law, particularly trade policy, treaty formation, and the legal mechanics behind economic sanctions and tariffs.
 
 Before law school, I worked as a Senior Associate at Ankura Consulting Group, where I conducted data-driven analysis in high-stakes healthcare disputes, collaborating with top law firms and leading experts on payor–provider litigation and pharmacy pricing investigations.
 
