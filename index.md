@@ -4,7 +4,7 @@ I'm Sanjana Kaicker, a 1L at Boston University School of Law with a deep interes
 
 Before law school, I worked as a Senior Associate at Ankura Consulting Group, where I conducted data-driven analysis in high-stakes healthcare disputes, collaborating with top law firms and leading experts on payor–provider litigation and pharmacy pricing investigations.
 
-I'm passionate about bridging law, policy, and data—a thread that's run through my experiences in consulting, economics research, product management, and international affairs.
+I'm passionate about bridging law, policy, and data—a thread that has run through my experiences in consulting, economics research, product management, and international affairs.
 
 ![Profile Photo](Photo.PNG)
 
