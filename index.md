@@ -1,6 +1,6 @@
 # Future Attorney. Former Economic Consultant.
 
-I'm Sanjana Kaicker, a 1L at Boston University School of Law with a deep interest in international trade — particularly trade remedies litigation and CFIUS compliance — and the intersection of cybersecurity & AI and national security.
+I'm Sanjana Kaicker, a 1L at Boston University School of Law with a deep interest in international trade — particularly trade remedies litigation and CFIUS compliance — and the intersection of cybersecurity & AI and national security. I am additionally interested in technology transactions, and generally, how we can use artificial intelligence to empower legal solutions.
 
 Before law school, I worked as a Senior Associate at Ankura Consulting Group, where I conducted data-driven analysis in high-stakes healthcare disputes, collaborating with top law firms and leading experts on payor–provider litigation and pharmacy pricing investigations.
 
