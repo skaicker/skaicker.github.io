@@ -8,6 +8,8 @@ I'm passionate about bridging law, policy, and data — a thread that has run th
 
 ![Profile Photo](Photo.PNG)
 
+Fun fact: I am a huge advocate of the em dash, and it's quite a shame that it has become associated with AI-produced content!
+
 ---
 
 © 2025 Sanjana Kaicker. All rights reserved.
