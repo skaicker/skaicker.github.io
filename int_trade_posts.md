@@ -19,8 +19,8 @@ The takeaway? We're witnessing a rare alignment of U.S. regulatory signals and V
 Sources:
 
 [1] Lebow, Cardinal and Guerrero, "Venezuela Legal Shifts May Create Investment Opportunities," https://www.law360.com/articles/2437564/venezuela-legal-shifts-may-create-investment-opportunities  
-[2] OFAC License 49  
-[3] OFAC License 50  
+[2] OFAC General License No. 49  
+[3] OFAC General License No. 50  
 
 ---
 
