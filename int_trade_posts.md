@@ -2,9 +2,9 @@
 
 ---
 
-### February 17, 2026 ###
+## Venezuela's Oil Sector: A New Chapter in U.S. Sanctions Policy ##
 
-Venezuela's Oil Sector: A New Chapter in U.S. Sanctions Policy
+### _February 17, 2026_ ###
 
 The U.S. Treasury's recent issuance of General Licenses 49 and 50 marks a significant evolution in the Venezuela sanctions landscape—and signals that the door to Venezuelan oil is opening wider than it has in years.  
 
