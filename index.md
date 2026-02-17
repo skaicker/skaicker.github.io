@@ -12,7 +12,7 @@ Fun fact: I am a huge advocate of the em dash, and it's quite a shame that it ha
 
 ---
 
-© 2025 Sanjana Kaicker. All rights reserved.
+© 2026 Sanjana Kaicker. All rights reserved.
 
 Contact me:
 <div class="contact-icons">
