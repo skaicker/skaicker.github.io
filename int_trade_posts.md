@@ -1,5 +1,7 @@
 # International Trade: Thoughts on Current Affairs #
 
+---
+
 ### February 17, 2026 ###
 
 Venezuela's Oil Sector: A New Chapter in U.S. Sanctions Policy
@@ -13,6 +15,8 @@ What makes this moment particularly compelling is the parallel movement on the V
 Of course, significant guardrails remain. Both licenses prohibit transactions involving Russia, China, Iran, Cuba, and North Korea, and bar unconventional payment methods like digital currency or gold. 
 
 The takeaway? We're witnessing a rare alignment of U.S. regulatory signals and Venezuelan legislative reform. For companies with the risk appetite and the operational capability, Venezuela may be transitioning from "untouchable" to "opportunity." But in a landscape this fluid, rigorous due diligence remains essential.
+
+---
 
 © 2026 Sanjana Kaicker. All rights reserved.
 
