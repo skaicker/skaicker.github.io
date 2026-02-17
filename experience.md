@@ -60,7 +60,7 @@
 
 ---
 
-© 2025 Sanjana Kaicker. All rights reserved.
+© 2026 Sanjana Kaicker. All rights reserved.
 
 Contact me:
 <div class="contact-icons">
