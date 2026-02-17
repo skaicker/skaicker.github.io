@@ -16,6 +16,12 @@ Of course, significant guardrails remain. Both licenses prohibit transactions in
 
 The takeaway? We're witnessing a rare alignment of U.S. regulatory signals and Venezuelan legislative reform. For companies with the risk appetite and the operational capability, Venezuela may be transitioning from "untouchable" to "opportunity." But in a landscape this fluid, rigorous due diligence remains essential.
 
+Sources:
+
+[1] Lebow, Cardinal and Guerrero, "Venezuela Legal Shifts May Create Investment Opportunities," https://www.law360.com/articles/2437564/venezuela-legal-shifts-may-create-investment-opportunities  
+[2] OFAC License 49  
+[3] OFAC License 50  
+
 ---
 
 © 2026 Sanjana Kaicker. All rights reserved.
