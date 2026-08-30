@@ -238,3 +238,14 @@ a {
     font-size: 17px; /* Slightly smaller on mobile but still large */
   }
 }
+
+.profile-photo {
+  position: fixed;        /* Pins the image relative to the viewport while scrolling */
+  top: 20px;              /* Distance from the top of the screen */
+  left: 20px;             /* Distance from the left edge of the screen */
+  width: 100px;           /* Set equal width and height for a perfect circle */
+  height: 100px;
+  border-radius: 50%;     /* Crops the image into a circle */
+  object-fit: cover;      /* Prevents image distortion */
+  z-index: 1000;          /* Ensures the photo stays above other scrolling content */
+}
