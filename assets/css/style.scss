@@ -249,3 +249,36 @@ a {
   object-fit: cover;      /* Prevents image distortion */
   z-index: 1000;          /* Ensures the photo stays above other scrolling content */
 }
+
+/* Fixed Circular Profile Photo */
+.profile-photo {
+  position: fixed;
+  top: 80px;               /* Positioned just beneath your 60px header */
+  left: 20px;
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;      /* Crops the image into a circle */
+  object-fit: cover;       /* Prevents stretching/distortion */
+  z-index: 900;
+  box-shadow: 0 4px 8px var(--shadow-color);
+}
+
+/* Offsets the container so content doesn't get covered by the photo */
+.content-container {
+  padding-left: 150px;
+}
+
+/* Mobile viewport adjustments */
+@media (max-width: 768px) {
+  .profile-photo {
+    position: static;
+    width: 140px;
+    height: 140px;
+    margin: 0 auto 20px;
+    display: block;
+  }
+
+  .content-container {
+    padding-left: 20px;
+  }
+}
