@@ -8,7 +8,7 @@ This undergraduate thesis, written through the Department of Romance Studies (Fr
 
 You can view the self-published version on Amazon [here](https://www.amazon.com/beaut%C3%A9-est-dans-transnationale-contestataires-ebook/dp/B0C888PLG5).
 
-### Gradute
+### Graduate
 
 I am excited to be writing a master's thesis as part of the dual-degree JD/MA in IR program.
 ---
