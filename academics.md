@@ -10,7 +10,7 @@ You can view the self-published version on Amazon [here](https://www.amazon.com/
 
 ### Graduate
 
-I am excited to be writing a master's thesis as part of the dual-degree JD/MA in IR program.
+I am excited to be writing a master's thesis as part of the dual-degree graduate program. The thesis is for completion of the Master of Arts in International Affairs. Topic TBD.
 
 ---
 
