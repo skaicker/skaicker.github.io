@@ -1,10 +1,10 @@
 # Future Attorney. Former Economic Consultant.
 
-I'm Sanjana Kaicker, a 1L at Boston University School of Law with a deep interest in international trade — particularly trade remedies litigation and CFIUS compliance — and the intersection of cybersecurity & AI and national security. I am additionally interested in technology transactions, and generally, how we can use artificial intelligence to empower legal solutions.
+I'm Sanjana Kaicker, a dual-degree JD/MA student at Boston University School of Law/Pardee School of Global Studies. Two of my particular interests are international trade law and food law & policy.
+
+I am fortunate to be working with Professor Weijia Rao on a variety of international trade projects, including a comprehensive analysis of nations' negotiation power in ISDS reform. This past summer, I also served as a research intern at Harvard Law School's Food Law and Policy Clinic (a dream come true!), where I got to do deep dives in prominent food systems justice issues and actively shape the food waste policy landscape.
 
 Before law school, I worked as a Senior Associate at Ankura Consulting Group, where I conducted data-driven analysis in high-stakes healthcare disputes, collaborating with top law firms and leading experts on payor–provider litigation and pharmacy pricing investigations.
-
-I'm passionate about bridging law, policy, and data — a thread that has run through my experiences in consulting, economics research, product management, and international affairs.
 
 ![Profile Photo](Photo.PNG)
 
