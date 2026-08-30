@@ -24,9 +24,8 @@
 ## Interests
 
 - French pop + protest culture  
-- Treaty formation & cross-border dispute resolution  
-- Rock climbing and third-wave coffee  
-- Building legal-tech tools for public interest and trade transparency
+- Rock climbing and third-wave coffee
+- Reducing food waste through top-down policy change
 
 ---
 
