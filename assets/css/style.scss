@@ -242,29 +242,37 @@ a {
 /* Fixed Circular Profile Photo */
 .profile-photo {
   position: fixed;
-  top: 100px;                      /* Pushes the top of the photo below the navbar */
-  left: calc(50% - 500px);         /* Aligns with the left boundary of your text container */
-  width: 140px;                    /* Increased size */
-  height: 140px;                   /* Increased size */
-  border-radius: 50%;              /* Perfect circle */
-  object-fit: cover;               /* Prevents image distortion */
+  top: 90px;
+  left: calc(50% - 660px);         /* Shifts the photo further left outside the text block */
+  width: 150px;                    /* Kept larger */
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
   z-index: 900;
   box-shadow: 0 4px 10px var(--shadow-color);
 }
 
-/* Offsets content so text sits to the right of the larger photo */
+/* Restores your main content block alignment */
 .content-container {
-  padding-left: 180px;
+  padding-left: 20px;
 }
 
-/* Fallback for mobile devices */
-@media (max-width: 900px) {
+/* Adjust for smaller screens where the margin runs out of space */
+@media (max-width: 1350px) {
+  .profile-photo {
+    left: 20px;                    /* Pins to left edge of screen on medium displays */
+  }
+  .content-container {
+    padding-left: 170px;           /* Shifts text right when screen shrinks */
+  }
+}
+
+@media (max-width: 768px) {
   .profile-photo {
     position: static;
     display: block;
     margin: 0 auto 20px auto;
   }
-
   .content-container {
     padding-left: 20px;
   }
