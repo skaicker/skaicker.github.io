@@ -242,22 +242,22 @@ a {
 /* Fixed Circular Profile Photo */
 .profile-photo {
   position: fixed;
-  top: 90px;                       /* Sits cleanly below the 60px nav bar */
-  left: calc(50% - 500px);         /* Aligns with the left edge of your 1000px container */
-  width: 100px;
-  height: 100px;
+  top: 100px;                      /* Pushes the top of the photo below the navbar */
+  left: calc(50% - 500px);         /* Aligns with the left boundary of your text container */
+  width: 140px;                    /* Increased size */
+  height: 140px;                   /* Increased size */
   border-radius: 50%;              /* Perfect circle */
-  object-fit: cover;               /* Prevents stretching */
+  object-fit: cover;               /* Prevents image distortion */
   z-index: 900;
   box-shadow: 0 4px 10px var(--shadow-color);
 }
 
-/* Clear space in the text container so the top lines sit next to the photo */
+/* Offsets content so text sits to the right of the larger photo */
 .content-container {
-  padding-left: 120px;
+  padding-left: 180px;
 }
 
-/* Return to standard layout on smaller screens */
+/* Fallback for mobile devices */
 @media (max-width: 900px) {
   .profile-photo {
     position: static;
