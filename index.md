@@ -6,7 +6,7 @@ I am fortunate to be working with [Professor Weijia Rao](https://www.bu.edu/law/
 
 Before law school, I worked as a Senior Associate at [Ankura Consulting Group](https://ankura.com/services/healthcare-disputes), where I conducted data-driven analysis in high-stakes healthcare disputes, collaborating with top law firms and leading experts on payor–provider litigation and pharmacy pricing investigations.
 
-![Profile Photo](Photo.PNG)
+<img src="Photo.PNG" alt="Profile Photo" class="profile-photo">
 
 Fun fact: I am a huge advocate of the em dash, and it's quite a shame that it has become associated with AI-produced content!
 
