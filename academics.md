@@ -11,6 +11,7 @@ You can view the self-published version on Amazon [here](https://www.amazon.com/
 ### Graduate
 
 I am excited to be writing a master's thesis as part of the dual-degree JD/MA in IR program.
+
 ---
 
 © 2026 Sanjana Kaicker. All rights reserved.
