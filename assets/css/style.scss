@@ -239,6 +239,17 @@ a {
   }
 }
 
+/* Simple Circular Photo */
+.circular-photo {
+  width: 150px;           /* Set a specific width */
+  height: 150px;          /* Set the exact same height for a perfect square */
+  border-radius: 50%;     /* Crops the square into a circle */
+  object-fit: cover;      /* Prevents stretching or distortion */
+  display: block;         /* Allows for centering */
+  margin: 20px auto;      /* Centers the photo horizontally and adds spacing above/below */
+  box-shadow: 0 4px 8px var(--shadow-color); /* Adds subtle depth (optional) */
+}
+
 
 // /* Layout container with dual column structure */
 // .content-container {
