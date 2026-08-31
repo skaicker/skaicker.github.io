@@ -7,7 +7,7 @@
 
 I'm Sanjana Kaicker, a dual-degree J.D/M.A. student at Boston University School of Law/Pardee School of Global Studies. Two of my particular interests are international trade law and food law & policy.
 
-I am fortunate to be working with [Professor Weijia Rao](https://www.bu.edu/law/profile/weijia-rao/) on a variety of international trade projects, including a comprehensive analysis of nations' negotiation power in ISDS reform. This past summer, I also served as a research intern at Harvard Law School's [Food Law and Policy Clinic](https://chlpi.org/food-law-and-policy/) (a dream come true!), where I got to do deep dives in prominent food systems justice issues and actively shape the food waste policy landscape.
+I am fortunate to be working with [Professor Weijia Rao](https://www.bu.edu/law/profile/weijia-rao/) on a variety of international trade projects, including a comprehensive analysis of nations' negotiation power in ISDS reform. This past summer, I also served as a research intern at Harvard Law School's [Food Law and Policy Clinic](https://chlpi.org/food-law-and-policy/) (a dream come true!), where I got to dive deeply into pervasive issues in food systems justice — and actively shape the food waste policy landscape.
 
 Before law school, I worked as a Senior Associate at [Ankura Consulting Group](https://ankura.com/services/healthcare-disputes), where I conducted data-driven analysis in high-stakes healthcare disputes, collaborating with top law firms and leading experts on payor–provider litigation and pharmacy pricing investigations.
 
