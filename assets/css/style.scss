@@ -239,41 +239,39 @@ a {
   }
 }
 
+/* Layout container with dual column structure */
+.content-container {
+  display: grid;
+  grid-template-columns: 180px 1fr; /* Dedicated 180px column for the photo, rest for text */
+  column-gap: 40px;                 /* Generous spacing between photo and text */
+  align-items: start;
+}
+
 /* Fixed Circular Profile Photo */
 .profile-photo {
   position: fixed;
-  top: 90px;
-  left: calc(50% - 660px);         /* Shifts the photo further left outside the text block */
-  width: 150px;                    /* Kept larger */
-  height: 150px;
+  top: 100px;
+  width: 160px;
+  height: 160px;
   border-radius: 50%;
   object-fit: cover;
   z-index: 900;
   box-shadow: 0 4px 10px var(--shadow-color);
 }
 
-/* Restores your main content block alignment */
-.content-container {
-  padding-left: 20px;
+/* Ensure the text spans across the right column cleanly */
+.content-container > *:not(.profile-photo) {
+  grid-column: 2;
 }
 
-/* Adjust for smaller screens where the margin runs out of space */
-@media (max-width: 1350px) {
-  .profile-photo {
-    left: 20px;                    /* Pins to left edge of screen on medium displays */
-  }
+/* Mobile responsive fallback */
+@media (max-width: 900px) {
   .content-container {
-    padding-left: 170px;           /* Shifts text right when screen shrinks */
+    display: block;
   }
-}
-
-@media (max-width: 768px) {
   .profile-photo {
     position: static;
     display: block;
     margin: 0 auto 20px auto;
-  }
-  .content-container {
-    padding-left: 20px;
   }
 }
