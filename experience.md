@@ -1,6 +1,8 @@
 # Non-Legal Experience Highlights
 
-**Senior Associate, Ankura Consulting Group**  
+## Work Experience
+
+**Associate → Senior Associate, Ankura Consulting Group**  
 *Washington, D.C. | 2023–2025*  
 - Led analyses in complex healthcare disputes, handling SQL datasets with 200M+ rows.  
 - Supported law firms throughout the case lifecycle, with a focus on payer-provider disputes and class-action disputes.
