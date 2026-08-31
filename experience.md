@@ -6,8 +6,6 @@
 - Supported law firms throughout the case lifecycle, with a focus on payer-provider disputes and class-action disputes.
 - Promoted from Associate to Senior Associate in under two years.
 
----
-
 ## Leadership & Projects
 
 **President, Cornell Diplomat Magazine**  
@@ -19,15 +17,11 @@
 **Research Presenter**  
 - Showcased original research on French protest culture at the Macksey Humanities Symposium and Cornell Humanities Conference.
 
----
-
 ## Interests
 
 - French pop + protest culture  
 - Rock climbing and third-wave coffee
 - Reducing food waste through top-down policy change
-
----
 
 ## Skills & Languages
 
