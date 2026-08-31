@@ -1,4 +1,4 @@
-## Non-Legal Experience Highlights
+# Non-Legal Experience Highlights
 
 **Senior Associate, Ankura Consulting Group**  
 *Washington, D.C. | 2023–2025*  
