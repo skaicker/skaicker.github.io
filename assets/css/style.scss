@@ -239,51 +239,52 @@ a {
   }
 }
 
-/* Layout container with dual column structure */
-.content-container {
-  display: grid;
-  grid-template-columns: 180px 1fr; /* Dedicated 180px column for the photo, rest for text */
-  column-gap: 40px;                 /* Generous spacing between photo and text */
-  align-items: start;
-}
 
-/* Clean positioning for the content container */
-.content-container {
-  max-width: 900px;
-  margin: 100px auto 40px;
-  padding-left: 220px; /* Reserves 220px on the left side of the main box */
-  padding-right: 20px;
-  position: relative;  /* Anchor for absolute alignment */
-}
+// /* Layout container with dual column structure */
+// .content-container {
+//   display: grid;
+//   grid-template-columns: 180px 1fr; /* Dedicated 180px column for the photo, rest for text */
+//   column-gap: 40px;                 /* Generous spacing between photo and text */
+//   align-items: start;
+// }
 
-/* Circular Profile Photo pinned inside the left reserved padding area */
-.profile-photo {
-  position: fixed;
-  top: 100px;
-  left: calc(50% - 430px); /* Exactly centers the photo inside the left padding */
-  width: 160px;
-  height: 160px;
-  border-radius: 50%;
-  object-fit: cover;
-  z-index: 900;
-  box-shadow: 0 4px 10px var(--shadow-color);
-}
+// /* Clean positioning for the content container */
+// .content-container {
+//   max-width: 900px;
+//   margin: 100px auto 40px;
+//   padding-left: 220px; /* Reserves 220px on the left side of the main box */
+//   padding-right: 20px;
+//   position: relative;  /* Anchor for absolute alignment */
+// }
 
-/* Responsive fix for smaller desktop/tablet screens */
-@media (max-width: 1100px) {
-  .profile-photo {
-    left: 20px;
-  }
-}
+// /* Circular Profile Photo pinned inside the left reserved padding area */
+// .profile-photo {
+//   position: fixed;
+//   top: 100px;
+//   left: calc(50% - 430px); /* Exactly centers the photo inside the left padding */
+//   width: 160px;
+//   height: 160px;
+//   border-radius: 50%;
+//   object-fit: cover;
+//   z-index: 900;
+//   box-shadow: 0 4px 10px var(--shadow-color);
+// }
 
-/* Mobile responsive layout */
-@media (max-width: 768px) {
-  .profile-photo {
-    position: static;
-    display: block;
-    margin: 0 auto 20px auto;
-  }
-  .content-container {
-    padding-left: 20px;
-  }
-}
+// /* Responsive fix for smaller desktop/tablet screens */
+// @media (max-width: 1100px) {
+//   .profile-photo {
+//     left: 20px;
+//   }
+// }
+
+// /* Mobile responsive layout */
+// @media (max-width: 768px) {
+//   .profile-photo {
+//     position: static;
+//     display: block;
+//     margin: 0 auto 20px auto;
+//   }
+//   .content-container {
+//     padding-left: 20px;
+//   }
+// }
