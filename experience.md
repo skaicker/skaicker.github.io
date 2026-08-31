@@ -8,14 +8,11 @@
 
 ## Leadership & Projects
 
-**President, Cornell Diplomat Magazine**  
-- Led 27-person team on the premier student international affairs magazine; managed editorial direction and budgeting.
+**President, Cornell Diplomat Magazine:** Led 27-person team on the premier student international affairs magazine; managed editorial direction and budgeting.
 
-**Product Manager, Cornell AppDev (CourseGrab App)**  
-- Oversaw full product lifecycle; collaborated with iOS, Android, and design teams to serve 3,000+ users.
+**Product Manager, Cornell AppDev (CourseGrab App):** Oversaw full product lifecycle; collaborated with iOS, Android, and design teams to serve 3,000+ users.
 
-**Research Presenter**  
-- Showcased original research on French protest culture at the Macksey Humanities Symposium and Cornell Humanities Conference.
+**Research Presenter:** Showcased original research on French protest culture at the Macksey Humanities Symposium and Cornell Humanities Conference.
 
 ## Interests
 
