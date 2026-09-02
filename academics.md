@@ -1,6 +1,6 @@
 # Academic Writing
 
-### Undergraduate
+## Undergraduate
 
 At Cornell, I was the only student to complete a thesis written fully in French, called *La beauté est dans la rue: Une généalogie transnationale des pratiques contestataires françaises.*
 
@@ -8,7 +8,7 @@ This undergraduate thesis, written through the Department of Romance Studies (Fr
 
 You can view the self-published version on Amazon [here](https://www.amazon.com/beaut%C3%A9-est-dans-transnationale-contestataires-ebook/dp/B0C888PLG5).
 
-### Graduate
+## Graduate
 
 I am excited to be writing a master's thesis as part of the dual-degree graduate program. The thesis is for completion of the Master of Arts in International Relatons. Topic TBD.
 
